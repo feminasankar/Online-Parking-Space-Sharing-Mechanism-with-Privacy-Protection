@@ -1,0 +1,2 @@
+# Online-Parking-Space-Sharing-Mechanism-with-Privacy-Protection
+Nowadays, the availability of parking spaces is far behind the quick rising number of vehicles. Rather than building more parking lots to get a way is to share private-owned parking spaces. We propose a new architecture for parking space sharing, into the design of secure protocol for parking space searching and booking by using maps. 
